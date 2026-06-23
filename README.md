@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -35,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0007-reverse-integer) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
