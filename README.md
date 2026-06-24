@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0007-reverse-integer) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
