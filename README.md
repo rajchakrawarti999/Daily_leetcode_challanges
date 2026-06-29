@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0112-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
