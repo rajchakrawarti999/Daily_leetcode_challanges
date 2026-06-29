@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/rajchakrawarti999/Daily_leetcode_challanges/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
